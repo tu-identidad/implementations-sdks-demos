@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven {
+            url 'https://jitpack.io'
+        }
+        maven {
+            url 'https://pkgs.dev.azure.com/tu-identidad/TuIdentidad-Android-SDK/_packaging/INE-SDK/maven/v1'
+        }
+    }
+}
+rootProject.name = "implementation-sdks"
+include ':app'

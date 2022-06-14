@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuidentidad.ine:idval:1.10.14@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1f73ce0658493e4f2228d3407fd388b/transformed/jetified-idval-1.10.14/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b1f73ce0658493e4f2228d3407fd388b/transformed/jetified-idval-1.10.14/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b1f73ce0658493e4f2228d3407fd388b/transformed/jetified-idval-1.10.14/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
